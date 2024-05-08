@@ -1,1 +1,1 @@
-# PhotoStorage_Cloud
+# Photo Storage App using Flask and Azure.
